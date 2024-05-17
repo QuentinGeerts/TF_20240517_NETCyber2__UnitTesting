@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF_20240517_NETCyber2__UnitTesting", "TF_20240517_NETCyber2__UnitTesting\TF_20240517_NETCyber2__UnitTesting.csproj", "{2B046EEC-4F17-41B8-86AB-78865EC035CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B046EEC-4F17-41B8-86AB-78865EC035CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B046EEC-4F17-41B8-86AB-78865EC035CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B046EEC-4F17-41B8-86AB-78865EC035CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B046EEC-4F17-41B8-86AB-78865EC035CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
