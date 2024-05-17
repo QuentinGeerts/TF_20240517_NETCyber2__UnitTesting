@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+using Tools;
+
+for (int i = 2; i <= 100; i++)
+{
+    if (i.IsPrime())
+        Console.Write($"{i} ");
+}
